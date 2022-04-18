@@ -1,4 +1,4 @@
-#include "main.h"
+#include "ain.h"
 
 /**
  * get_flag - turns on flags if _printf finds
