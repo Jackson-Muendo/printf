@@ -1,4 +1,4 @@
-#include "main.h"
+#include "ain.h"
 
 /**
  * convert - converts number and base into string
