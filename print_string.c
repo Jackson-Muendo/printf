@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * print_rev - prints a string in reverse
  * @l: argument from _printf
@@ -67,3 +68,4 @@ int print_percent(va_list l, flags_t *f)
 	(void)l;
 	(void)f;
 	return (_putchar('%'));
+}
